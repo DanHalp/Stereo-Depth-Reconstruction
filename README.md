@@ -4,6 +4,7 @@
 Stereo reconstruction project for the 3D Scanning and Motion Capture Lecture at TUM in the summer semester 2022.
 This program creates a 3D reconstruction from two images of a scene take from a different point of view. It compares keypoint matching algorithm - FLANN, NCC, NSSD - by comparing the Hausdorff Distance between two reconsturcted point clouds. 
 
+Link to the [Report](https://github.com/DanHalp/Stereo-Depth-Reconstruction/blob/main/3D_reconstruction___Final_Report.pdf).
 ## Libraries
 
 Following libraries are required to run the program:
